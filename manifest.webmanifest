@@ -1,0 +1,16 @@
+{
+  "name": "RepSight",
+  "short_name": "RepSight",
+  "description": "Film a set; RepSight recognises the exercise and counts your reps.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0e1115",
+  "theme_color": "#1d56cf",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
